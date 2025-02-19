@@ -1,4 +1,3 @@
-
 public class ReverseLinkedList {
     public static class Node {
         int data;
